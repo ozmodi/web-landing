@@ -394,3 +394,415 @@
 	top: 145px;
 	z-index: 28;
 }
+
+
+#element-226 p, #element-226 ul, #element-226 ol, #element-226 h1 
+{
+	font-size: 17px;
+	color: rgb(148, 148, 148);
+	line-height: 24px;
+	text-align: center;
+}
+	
+#element-1  
+{
+	height: 24px;
+	width: 293px;
+	left: -1px;
+	top: 210px;
+	z-index: 29;
+}
+
+#element-1 p, #element-1 ul, #element-1 ol, #element-1 h1 
+{
+	font-size: 17px;
+	color: rgb(255, 255, 255);
+	line-height: 24px;
+	text-align: left;
+}
+	
+#element-235  
+{
+	height: 12px;
+	width: 182px;
+	left: -1px;
+	top: 231px;
+	z-index: 30;
+}
+	
+#element-261  
+{
+	height: 54px;
+	width: 278px;
+	left: 8px;
+	top: 332px;
+	z-index: 32;
+}
+	
+#element-257  
+{
+	height: 253px;
+	width: 294px;
+	left: 0px;
+	top: 87px;
+	z-index: 33;
+}
+	
+#element-266  
+{
+	height: 86px;
+	width: 83px;
+	left: 210px;
+	top: 254px;
+	z-index: 34;
+}
+	
+#element-265  
+{
+	height: 41px;
+	width: 42px;
+	left: 232px;
+	top: 276px;
+	z-index: 35;
+}
+	
+#element-273  
+{
+	height: 34px;
+	width: 850px;
+	left: 57px;
+	top: 55px;
+	z-index: 37;
+}
+
+#element-273 p, #element-273 ul, #element-273 ol, #element-273 h1 
+{
+	font-size: 24px;
+	color: rgb(88, 88, 88);
+	line-height: 34px;
+	text-align: center;
+}
+	
+#element-284  
+{
+	height: 57px;
+	width: 370px;
+	left: 32px;
+	top: 81px;
+	z-index: 38;
+}
+
+#element-284 p, #element-284 ul, #element-284 ol, #element-284 h1 
+{
+	font-size: 41px;
+	color: rgb(255, 255, 255);
+	line-height: 57px;
+	text-align: center;
+}
+	
+#element-285  
+{
+	height: 128px;
+	width: 128px;
+	left: 415px;
+	top: 250px;
+	z-index: 39;
+}
+
+			
+#page_block_header { height: 718px; }
+
+#page_block_header .border-holder
+{
+			background-image: url("http://v.fastcdn.co/u/33d6eff1/18302121-0-Medicina-Unab.jpg");	
+			background-color: #ffffff;
+	
+	background-repeat: repeat;						background-position: center center;
+			
+										background-size:cover;
+							-webkit-background-size:cover;
+							-moz-background-size:cover;
+							-o-background-size:cover;
+						
+		
+		width: auto;
+		border-width: 0;
+		border-top-width: 0px;
+		border-bottom-width: 0px;
+
+	
+	height: 718px;
+
+			background-attachment: fixed;
+	}
+
+@media only screen and (max-width: 770px) {
+	.border-holder {
+		background-attachment: scroll !important;
+	}
+}
+
+#page_block_header .color-overlay
+{
+						width: 100%;
+				height: 100%;
+		position: absolute;
+		margin: 0 auto;
+		background-color: #233140;
+		opacity: 0.90361445783133;
+	}
+
+	#page_block_header .block-inner
+	{
+		margin-top: 0px;
+			}
+
+			
+#page-block-m4dpzpvbe4qp8pvi { height: 404px; }
+
+#page-block-m4dpzpvbe4qp8pvi .border-holder
+{
+			background-image: none;
+	
+			background-color: #ffffff;
+	
+	background-repeat: repeat;						background-position: top left;
+			
+										background-size:cover;
+							-webkit-background-size:cover;
+							-moz-background-size:cover;
+							-o-background-size:cover;
+						
+		
+		width: auto;
+		border-width: 0;
+		border-top-width: 0px;
+		border-bottom-width: 0px;
+
+	
+	height: 404px;
+
+	}
+
+@media only screen and (max-width: 770px) {
+	.border-holder {
+		background-attachment: scroll !important;
+	}
+}
+
+#page-block-m4dpzpvbe4qp8pvi .color-overlay
+{
+	}
+
+	#page-block-m4dpzpvbe4qp8pvi .block-inner
+	{
+		margin-top: 0px;
+			}
+
+			
+#page_block_footer { height: 250px; }
+
+#page_block_footer .border-holder
+{
+			background-image: none;
+	
+			background-color: #ffffff;
+	
+	background-repeat: repeat;						background-position: top left;
+			
+										background-size:cover;
+							-webkit-background-size:cover;
+							-moz-background-size:cover;
+							-o-background-size:cover;
+						
+		
+		width: auto;
+		border-width: 0;
+		border-top-width: 0px;
+		border-bottom-width: 0px;
+
+	
+	height: 250px;
+
+	}
+
+@media only screen and (max-width: 770px) {
+	.border-holder {
+		background-attachment: scroll !important;
+	}
+}
+
+#page_block_footer .color-overlay
+{
+	}
+
+	#page_block_footer .block-inner
+	{
+		margin-top: 0px;
+			}
+
+			
+#page-block-1kkr6jaej124kj4i { height: 438px; }
+
+#page-block-1kkr6jaej124kj4i .border-holder
+{
+			background-image: none;
+	
+			background-color: #f5faff;
+	
+	background-repeat: repeat;						background-position: top left;
+			
+										background-size:cover;
+							-webkit-background-size:cover;
+							-moz-background-size:cover;
+							-o-background-size:cover;
+						
+		
+		width: auto;
+		border-width: 0;
+		border-top-width: 0px;
+		border-bottom-width: 0px;
+
+	
+	height: 438px;
+
+	}
+
+@media only screen and (max-width: 770px) {
+	.border-holder {
+		background-attachment: scroll !important;
+	}
+}
+
+#page-block-1kkr6jaej124kj4i .color-overlay
+{
+						width: 100%;
+				height: 100%;
+		position: absolute;
+		margin: 0 auto;
+		background-color: rgba(0,0,0,0);
+		opacity: 0.5;
+	}
+
+	#page-block-1kkr6jaej124kj4i .block-inner
+	{
+		margin-top: 0px;
+			}
+
+			
+#page-block-hvjz0psjsvyujtt9 { height: 68px; }
+
+#page-block-hvjz0psjsvyujtt9 .border-holder
+{
+			background-image: none;
+	
+			background-color: #ffffff;
+	
+	background-repeat: repeat;						background-position: top left;
+			
+										background-size:cover;
+							-webkit-background-size:cover;
+							-moz-background-size:cover;
+							-o-background-size:cover;
+						
+		
+		width: auto;
+		border-width: 0;
+		border-top-width: 0px;
+		border-bottom-width: 0px;
+
+	
+	height: 68px;
+
+	}
+
+@media only screen and (max-width: 770px) {
+	.border-holder {
+		background-attachment: scroll !important;
+	}
+}
+
+#page-block-hvjz0psjsvyujtt9 .color-overlay
+{
+	}
+
+	#page-block-hvjz0psjsvyujtt9 .block-inner
+	{
+		margin-top: 0px;
+			}
+
+	
+
+@media
+screen and (min-width: 621px)  and (-webkit-max-device-pixel-ratio: 1.5),
+screen and (min-width: 1000px) and (-webkit-max-device-pixel-ratio: 1.5)
+{
+	.new_mobile .page.page2.mobile .block-inner
+	{
+		width: 960px;
+	}
+}
+		</style>
+
+							
+		
+				
+												
+			
+					
+	</head>
+
+	
+	<body >
+
+		
+		
+		
+				<div id="i-page" class="page page2 ">
+			<div class="notification">
+				<div class="notification-overlay"></div>
+				<div class="notification-inner">
+					<img rel="//v.fastcdn.co/a/img/loading_circle.svg" src="#" class="loading notification-loader" alt="" />
+					<span class="message"></span>
+					<span class="close-button" onclick="jQuery(this).parent().parent().hide()">Close</span>
+				</div>
+			</div>
+
+												<div class="page-block" id="page_block_header">
+						<div class="color-overlay"></div>
+						<div class="border-holder">
+							<div class="block-inner">
+																											<div
+	class="page-element widget-container page-element-type-text widget-text "
+	id="element-117"
+	>
+
+	<div class="contents"><p style="line-height: 24px; font-size: 17px;">Te daremos las mejores alternativas y recomendaciones que debes seguir diariamente, para un buen resultado en conjunto.</p></div>
+</div>
+
+																													<div
+	class="page-element widget-container page-element-type-line-horizontal widget-line-horizontal "
+	id="element-235"
+	>
+
+	<div class="line-horizontal" style="width: auto; height: 10px; border-bottom: 2px solid #00c076;"></div>
+
+</div>
+
+																													<div
+	class="page-element widget-container page-element-type-box widget-box "
+	id="element-210"
+	>
+
+	
+<div class="box" style="width: 400px; height: 580px; background-color: #cdcdcd; border-radius: 0px 0px 0px 0px; opacity: 1; filter:alpha(opacity=100); background-repeat: repeat; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-position: center center; background-image: url('http://v.fastcdn.co/u/33d6eff1/18302091-0-doctora.jpg');"></div>
+</div>
+
+																													<div
+	class="page-element widget-container page-element-type-headline widget-headline "
+	id="element-1"
+	>
+
+	
+<div class="contents"><h5><p style="line-height: 24px; font-size: 17px;">EXPERTOS EN EL TEMA</p></h5></div>
+</div>
